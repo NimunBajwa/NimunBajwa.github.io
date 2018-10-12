@@ -353,11 +353,32 @@ p.lead {
 	margin-top:20px;
 	display:inline-block;
 }
+
+.btnghostapply {
+	border:2px solid #fdfdfd;
+	background-color:#87004f;
+	padding:15px 20px;
+	letter-spacing:3px;
+	font-size:20px;
+	text-transform:uppercase;
+	font-weight:400;
+	color:#fdfdfd;
+	margin-top:20px;
+	display:inline-block;
+}
+
 .btnghost:hover {
 	background-color:#ffcd03;
 	color:#fff;
 	border:2px solid #87004f;
 }
+
+.btnghostapply:hover {
+	background-color:#ffcd03;
+	color:#fff;
+	border:2px solid #87004f;
+}
+
 .bgcover {
 	background-size:cover;
 	background-repeat:no-repeat;
